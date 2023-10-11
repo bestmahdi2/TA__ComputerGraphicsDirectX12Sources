@@ -2,6 +2,14 @@
 
 <div dir="rtl"> 
 
+[![DirectX 12](https://img.shields.io/badge/DirectX_12-2ea44f?style=for-the-badge&logo=microsoft)]()
+[![DirectX 11](https://img.shields.io/badge/DirectX_11-2ea460?style=for-the-badge&logo=microsoft)]()
+[![DirectX 9](https://img.shields.io/badge/DirectX_9-2ea47d?style=for-the-badge&logo=microsoft)]()
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 ## :man_technologist::woman_technologist: پیش نیاز‌های برنامه‌نویسی
 
 فایل‌های زیر پیش نیاز‌ها برای برنامه‌نویسی DirectX 12 را دارند و پیشنهاد می‌شود مطالعه شوند:
