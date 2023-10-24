@@ -115,7 +115,13 @@ https://github.com/d3dcoder/d3d12book
 2. https://www.3dgep.com/
 
 </div>
- 
+
+## :pencil: تکالیف
+
+1. [تکلیف 1](z.Homeworks/Homework1.pdf)
+
+---
+
 ## :warning: نکات
 
 <div dir="rtl"> 
