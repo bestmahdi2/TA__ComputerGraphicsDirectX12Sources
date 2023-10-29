@@ -119,6 +119,9 @@ https://github.com/d3dcoder/d3d12book
 ## :pencil: تکالیف
 
 1. [تکلیف 1](z.Homeworks/Homework1.pdf)
+2. [تکلیف 2](z.Homeworks/Homework2.pdf)
+3. [تکلیف 3](z.Homeworks/Homework3.pdf)
+4. [تکلیف 4](z.Homeworks/Homework4.pdf)
 
 ---
 
