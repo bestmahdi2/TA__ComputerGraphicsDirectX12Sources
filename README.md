@@ -25,11 +25,19 @@
 
 </div>
 
-فایل‌ زیر نیز برای نحوه‌ی استفاده از گیت و گیتهاب مطالعه شود:
+فایل‌ زیر برای نحوه‌ی استفاده از گیت و گیتهاب مطالعه شود:
 
 <div dir="ltr">
 
-1. [Git-Github](4.GitHelp/Git_Github.pdf)
+[Git-Github](4.GitHelp/Git_Github.pdf)
+
+</div>
+
+فایل‌ زیر نیز برای نحوه‌ی استفاده از V2ray مطالعه شود:
+
+<div dir="ltr">
+
+[V2ray](5.ProxyHelp/5.V2ray.pdf)
 
 </div>
 
