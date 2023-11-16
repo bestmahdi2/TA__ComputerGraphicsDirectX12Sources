@@ -134,6 +134,7 @@ https://github.com/d3dcoder/d3d12book
 ## :pencil: جواب تکالیف
 
 1. [جواب تکلیف 1](z.Solutions/1/Homework1-Solutions.pdf)
+1. [جواب تکلیف 2](z.Solutions/2/Homework2-Solutions.pdf)
 
 ---
 
