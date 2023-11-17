@@ -112,6 +112,8 @@ https://github.com/bestmahdi2/IntroductionTo3DGameProgrammingWithDirectX12/relea
 <div dir="ltr"> 
 
 https://github.com/d3dcoder/d3d12book
+
+https://github.com/derekqian/d3dcoder
 </div>
 
 ### راهنما
@@ -152,7 +154,7 @@ https://github.com/d3dcoder/d3d12book
 
 <div dir="ltr">
 
-**DirectX 9**: [Book](3.Others/3D_Game_Programming_Directx_9_WinAPI.pdf) - [Links](3.Others/X9_Links.txt)
+**DirectX 9**: [Book](3.Others/3D_Game_Programming_Directx_9_WinAPI.pdf) - [Links](3.Others/X9_Links.txt) - [Samples](2.Sample_Codes/SampleCodesX9.rar)
 
 **DirectX 11**: [Book](3.Others/Introduction_To_3D_Game_Programming_with_Directx_11.pdf) - [Links](3.Others/X11_Links.txt)
 </div>
