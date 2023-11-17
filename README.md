@@ -152,9 +152,9 @@ https://github.com/d3dcoder/d3d12book
 
 <div dir="ltr">
 
-**DirectX 9**: [Book](3.Others/3D_Game_Programming_Directx_9_WinAPI.pdf) - [Links](X9_Links.txt)
+**DirectX 9**: [Book](3.Others/3D_Game_Programming_Directx_9_WinAPI.pdf) - [Links](3.Others/X9_Links.txt)
 
-**DirectX 11**: [Book](3.Others/Introduction_To_3D_Game_Programming_with_Directx_11.pdf) - [Links](X11_Links.txt)
+**DirectX 11**: [Book](3.Others/Introduction_To_3D_Game_Programming_with_Directx_11.pdf) - [Links](3.Others/X11_Links.txt)
 </div>
 
 </div>
