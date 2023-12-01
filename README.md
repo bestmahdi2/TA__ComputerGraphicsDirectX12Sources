@@ -132,11 +132,13 @@ https://github.com/derekqian/d3dcoder
 2. [تکلیف 2](z.Homeworks/Homework2.pdf)
 3. [تکلیف 3](z.Homeworks/Homework3.pdf)
 4. [تکلیف 4](z.Homeworks/Homework4.pdf)
+5. [تکلیف 5](z.Homeworks/Homework5.pdf)
 
 ## :pencil: جواب تکالیف
 
 1. [جواب تکلیف 1](z.Solutions/1/Homework1-Solutions.pdf)
-1. [جواب تکلیف 2](z.Solutions/2/Homework2-Solutions.pdf)
+2. [جواب تکلیف 2](z.Solutions/2/Homework2-Solutions.pdf)
+3. [جواب تکلیف 3 - 2](z.Solutions/3/main2.cpp) [جواب تکلیف 3 - 1](z.Solutions/3/main1.cpp)
 
 ---
 
